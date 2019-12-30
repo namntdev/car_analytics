@@ -30,8 +30,9 @@ Lấy dữ liệu ô tô đã qua sử dụng để phân tích https://oto.com.
 	});
 ```
 * Export command windows: 
+```	
 	./mongoexport.exe --db=test --collection=cars --type=csv --fields=manufacturer_name,model_name,transmission,body_type,production_year,number_of_seat,odometer_value,color_body,engine_fuel,engine_type,engine_capacity,drivetrain,price,url --out=D:\ProjectCode\Nodejs\pricing_car\cars.csv
-
+```
 ### 2. Phân tích dữ liệu
 * Tham khảo:
 1. https://medium.com/analytics-vidhya/building-a-machine-learning-model-to-predict-the-price-of-the-car-bc51783ba2f3
