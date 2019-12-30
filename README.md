@@ -31,8 +31,8 @@ Lấy dữ liệu ô tô đã qua sử dụng để phân tích https://oto.com.
 ```
 
 ### 2. Phân tích dữ liệu
-* Tham khảo
-** https://medium.com/analytics-vidhya/building-a-machine-learning-model-to-predict-the-price-of-the-car-bc51783ba2f3
-** https://www.kaggle.com/ambujbhardwaj/car-price-prediction
-** https://towardsdatascience.com/figuring-out-a-fair-price-of-a-used-car-in-a-data-science-way-11450b3b252b
-** https://towardsdatascience.com/project-2-worth-it-predicting-the-price-of-used-cars-in-singapore-e9afe63c75d0
+* Tham khảo:
+1. https://medium.com/analytics-vidhya/building-a-machine-learning-model-to-predict-the-price-of-the-car-bc51783ba2f3
+2. https://www.kaggle.com/ambujbhardwaj/car-price-prediction
+3. https://towardsdatascience.com/figuring-out-a-fair-price-of-a-used-car-in-a-data-science-way-11450b3b252b
+4. https://towardsdatascience.com/project-2-worth-it-predicting-the-price-of-used-cars-in-singapore-e9afe63c75d0
