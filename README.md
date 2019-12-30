@@ -29,7 +29,7 @@ Lấy dữ liệu ô tô đã qua sử dụng để phân tích https://oto.com.
 	  url: String
 	});
 ```
-* Export command windows: 
+* Export command in windows: 
 ```	
 	./mongoexport.exe --db=test --collection=cars --type=csv --fields=manufacturer_name,model_name,transmission,body_type,production_year,number_of_seat,odometer_value,color_body,engine_fuel,engine_type,engine_capacity,drivetrain,price,url --out=D:\ProjectCode\Nodejs\pricing_car\cars.csv
 ```
