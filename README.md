@@ -9,7 +9,7 @@ Lấy dữ liệu ô tô đã qua sử dụng để phân tích https://oto.com.
 * Sử dụng tool https://github.com/bda-research/node-crawler
 * Code truy cập vào https://oto.com.vn/mua-ban-xe-cu-da-qua-su-dung rồi parse data html trả về
 * Lưu vào database mongodb
-* Kết quả thu thập được 20540 bản ghi dữ liệu
+* Kết quả thu thập được **20540** bản ghi dữ liệu
 **Schema database**
 ```nodejs	
 	var carSchema = new mongoose.Schema({
