@@ -39,3 +39,4 @@ Lấy dữ liệu ô tô đã qua sử dụng để phân tích https://oto.com.
 2. https://www.kaggle.com/ambujbhardwaj/car-price-prediction
 3. https://towardsdatascience.com/figuring-out-a-fair-price-of-a-used-car-in-a-data-science-way-11450b3b252b
 4. https://towardsdatascience.com/project-2-worth-it-predicting-the-price-of-used-cars-in-singapore-e9afe63c75d0
+* Thực hiện phân tích dùng jupyter notebook như ở file "Notebook - Used Car Price Prediction Linear Regression.ipynb"
