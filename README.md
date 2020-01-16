@@ -1,5 +1,4 @@
-# pricing_car
-pricing car
+# car_analytics
 
 ### Bài toán:
 Lấy dữ liệu ô tô đã qua sử dụng để phân tích https://oto.com.vn/mua-ban-xe-cu-da-qua-su-dung
